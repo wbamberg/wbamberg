@@ -1,5 +1,7 @@
 **Please note, I'm on vacation until June 18 and won't be responsive to anything on here.**
 
+********
+
 I'm a technical writer at [Open Web Docs](https://openwebdocs.org/), working on [MDN Web Docs](https://developer.mozilla.org/). I work on a mixture of:
 
 - writing projects
